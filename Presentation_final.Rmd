@@ -19,7 +19,7 @@ Information
 ========================================================
 
 Information about the assignment: https://www.coursera.org/learn/data-products/peer/tMYrn/course-project-shiny-application-and-reproducible-pitch
-Link to the project:
+Link to the project: https://github.com/dhuri22/Developing_Data_Products4
 
 
 Dataset
